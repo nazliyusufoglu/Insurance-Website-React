@@ -1,4 +1,4 @@
-#Insurance WEBSITE with React
+
 
 ## Project Description
 This project was created to develop the user interface (UI) for an insurance website. It is built using the React + Vite framework and supported by Material UI.
